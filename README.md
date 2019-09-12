@@ -38,8 +38,7 @@
 |雅安   | 296  |  65 | 0.219595|
 
 
-![公路工程专业科目1缺考统计]
-(https://raw.githubusercontent.com/mousestone/kaoshiquekaotongji/master/%E5%85%AC%E8%B7%AF%E5%B7%A5%E7%A8%8B%E4%B8%93%E4%B8%9A%E7%A7%91%E7%9B%AE1%E7%BC%BA%E8%80%83%E7%BB%9F%E8%AE%A1.png)
+![公路工程专业科目1缺考统计](https://raw.githubusercontent.com/mousestone/kaoshiquekaotongji/master/%E5%85%AC%E8%B7%AF%E5%B7%A5%E7%A8%8B%E4%B8%93%E4%B8%9A%E7%A7%91%E7%9B%AE1%E7%BC%BA%E8%80%83%E7%BB%9F%E8%AE%A1.png)
 
 通过数据可以看出缺考率基本在20%以上，在参考人数多的`成都`、`省直`和边远的`甘孜`、`阿坝`考区缺考率是最高的。
 
